@@ -1,2 +1,2 @@
-# personal-website
-My personal website built using Hugo hosted [here](rpunamiya.dev)
+# Personal Website
+My personal website built using Hugo hosted [here](www.rpunamiya.dev)
